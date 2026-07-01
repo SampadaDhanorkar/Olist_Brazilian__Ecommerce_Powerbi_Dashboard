@@ -1,4 +1,4 @@
-# Olist_Brazilian_Ecommerce_Powerbi_Dashboard
+# Olist_Ecommerce_Powerbi_Dashboard
 
 ## 📁 Download PBIX File
 **Note:** File size >25MB hone ki wajah se Google Drive link diya hai 👇
